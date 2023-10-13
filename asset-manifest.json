@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kirostina.github.io/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/kirostina.github.io/goit-react-hw-03-phonebook/static/js/main.d0afa4fc.js",
-    "index.html": "/kirostina.github.io/goit-react-hw-03-phonebook/index.html",
-    "main.7acaea2f.css.map": "/kirostina.github.io/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css.map",
-    "main.d0afa4fc.js.map": "/kirostina.github.io/goit-react-hw-03-phonebook/static/js/main.d0afa4fc.js.map"
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.d0afa4fc.js",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-03-phonebook/static/css/main.7acaea2f.css.map",
+    "main.d0afa4fc.js.map": "/goit-react-hw-03-phonebook/static/js/main.d0afa4fc.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
